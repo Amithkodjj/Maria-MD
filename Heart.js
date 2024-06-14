@@ -220,7 +220,7 @@ async function Telesticker(url) {
             data2 = await axios(`https://api.telegram.org/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/getFile?file_id=${fileId}`)
             result = {
             status: 200,
-            author: '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰',
+            author: '💙𓆩‎✘NOOBX7𓆪_✰',
             url: "https://api.telegram.org/file/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/" + data2.data.result.file_path
             }
             mariayresult.push(result)
@@ -262,7 +262,7 @@ async function Telesticker(url) {
         }
         
         if (autobio) {
-            Maria.updateProfileStatus(`Hey, future leaders! 🌟 Maria-Md is here to inspire and lead, thanks to Ayush Botz, Inc. 🚀 ${runtime(process.uptime())} `).catch(_ => _)
+            Maria.updateProfileStatus(`Hey, future leaders! 🌟 NOOBX7 is here to inspire and lead, thanks to @NOOBX7 Telegram, Inc. 🚀 ${runtime(process.uptime())} `).catch(_ => _)
         }
         if (m.sender.startsWith('212') && global.anti212 === true) {
             return Maria.updateBlockStatus(m.sender, 'block')
@@ -1507,16 +1507,16 @@ Maria.sendMessage(from, { react: { text: "🤖", key: m.key }})
 \`\`\`A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript\`\`\`
 
 ❁ ══════ ❃•📄 *NOTE* 📄•❃ ══════ ❁
-\`\`\`This bot is a free open source project by THE TEAM AYUSH\`\`\`
+\`\`\`This bot is a free open source project by THE TEAM AMITH\`\`\`
 
 ❁ ═════ ❃•📑 *GITHUB* 📑•❃ ═════ ❁
-*_LINK:- https://github.com/AYUSH-PANDEY023/Maria-MD_*
+*_LINK:- https://github.com/Amithkodjj/Maria-MD*
 
 
 ❁ ═══ ❃•✍🏻 *CONTRIBUTE* ✍🏻•❃ ═══ ❁
 \`\`\`Feel free to open issues regarding any problems or if you have any feature feel free to contact owner by typing ${prefix}owner or ${prefix}mods`
 
-Maria.sendMessage(m.chat, { image: { url: "https://graph.org/file/c8ad7dc322c0b9b7eca8f.jpg" }, caption: pifx, gifPlayback: true }, { quoted: m });
+Maria.sendMessage(m.chat, { image: { url: "https://graph.org/file/04109870ceb948cfe7e27.jpg" }, caption: pifx, gifPlayback: true }, { quoted: m });
         break;
 
 
@@ -1961,9 +1961,9 @@ break;
 │⋊ ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞: ${os.platform()} 
 │⋊ ℝ𝕦𝕟𝕥𝕚𝕞𝕖: ${runtime(process.uptime())}
 │⋊ 𝕋𝕠𝕥𝕒𝕝𝕔𝕞𝕕: ${mariafeature()}
-│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: https://gg.gg/Maria-support
+│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: https://Telegram.me/@NOOBX7
 ╰────────────┈平和
- 🎀𝐅𝐨𝐥𝐥𝐨𝐰 𝐨𝐧: https://www.instagram.com/ayushpandeyy_023
+ 🎀𝐅𝐨𝐥𝐥𝐨𝐰 𝐨𝐧: https://www.instagram.com/noob.x7
 
 Here's the list of my Commands.🔖
 ${readmore}
@@ -2375,7 +2375,7 @@ case 'doraemon': {
   reply(mess.wait);
   await Maria.sendMessage(m.chat, {
     image: await getBuffer('https://doremon-api.onrender.com'), // Change the URL to your Doraemon wallpaper
-    caption: 'Check out this Doraemon wallpaper! 🤖✨\n\n© Ayush Botz.Inc', // Customize the caption as you like
+    caption: 'Check out this Doraemon wallpaper! 🤖✨\n\n© AMITH Botz.Inc', // Customize the caption as you like
   }, { quoted: m });
 }
 break;
@@ -2385,7 +2385,7 @@ case 'pokemon': {
   reply(mess.wait);
   await Maria.sendMessage(m.chat, {
     image: await getBuffer('https://ayush-pokemon.onrender.com/'), // Change the URL to your Pokemon wallpaper
-    caption: 'Here is a Pokemon wallpaper for you! ⚡🔥\n\n© Ayush Botz.Inc', // Customize the caption as you like
+    caption: 'Here is a Pokemon wallpaper for you! ⚡🔥\n\n© AMITU Botz.Inc', // Customize the caption as you like
   }, { quoted: m });
 }
 break;
@@ -2395,7 +2395,7 @@ case 'zero-two': {
   reply(mess.wait);
   await Maria.sendMessage(m.chat, {
     image: await getBuffer('https://ayush-zero-two.onrender.com'), // Change the URL to your Zero-Two wallpaper
-    caption: 'Enjoy this Zero-Two wallpaper! ❤️🖤\n\n© Ayush Botz.Inc', // Customize the caption as you like
+    caption: 'Enjoy this Zero-Two wallpaper! ❤️🖤\n\n© AMITH Botz.Inc', // Customize the caption as you like
   }, { quoted: m });
 }
 break;
@@ -2702,17 +2702,10 @@ https://chat.whatsapp.com/${response}
 case 'developer':
 case 'dev':
     const devmod = `  🍥 *Moderators* 🍥\n\n
-*🎫Ayush* @919931122319
-
-*🎫xeon* @916909137213
-
-*🎫Pikachu* @918811074852
-
-*🎫OldUser* @918602239106
- \n
+*🎫AMITH* @NOOBX7 - Telegram
 \n📛*Don't Spam them to avoid Blocking !*\n\n For any help, type *${prefix}support* and ask in the group.\n\n*✨️Thanks for using Maria-Md* `;
 
-    Maria.sendMessage(m.chat, { text: devmod, mentions: ["919931122319@s.whatsapp.net", "918811074852@s.whatsapp.net", "916909137213@s.whatsapp.net","918602239106@s.whatsapp.net"] }, { quoted: m });
+    Maria.sendMessage(m.chat, { text: devmod, mentions: ["919526006157@s.whatsapp.net"] }, { quoted: m });
     break;
 
 
@@ -3189,7 +3182,7 @@ case 'chat':
         
 case "info":
             Maria.sendMessage(from, { react: { text: "", key: m.key }}) 
-        let ifx = `❁ ════ ❃•💙 *MARIA* 💙•❃ ════ ❁
+        let ifx = `❁ ════ ❃•💙 *NOOBX7* 💙•❃ ════ ❁
 
 \`\`\`A FULL FLEDGED MULTI DEVICE WHATSAPP BOT WITH COOL FEATURES\`\`\`
 
@@ -3197,16 +3190,16 @@ case "info":
 \`\`\`A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript\`\`\`
 
 ❁ ══════ ❃•📄 *NOTE* 📄•❃ ══════ ❁
-\`\`\`This bot is a free open source project by THE TEAM AYUSH\`\`\`
+\`\`\`This bot is a free open source project by THE TEAM AMITH\`\`\`
 
 ❁ ═════ ❃•📑 *GITHUB* 📑•❃ ═════ ❁
-*_LINK:- https://github.com/AYUSH-PANDEY023/Maria-MD_*
+*_LINK:- https://github.com/Amithkodjj/Maria-MD*
 
 
 ❁ ═══ ❃•✍🏻 *CONTRIBUTE* ✍🏻•❃ ═══ ❁
 \`\`\`Feel free to open issues regarding any problems or if you have any feature feel free to contact owner by typing ${prefix}owner or ${prefix}mods`
 
-Maria.sendMessage(m.chat, { image: { url: "https://graph.org/file/c8ad7dc322c0b9b7eca8f.jpg" }, caption: ifx, gifPlayback: true }, { quoted: m });
+Maria.sendMessage(m.chat, { image: { url: "https://graph.org/file/04109870ceb948cfe7e27.jpg" }, caption: ifx, gifPlayback: true }, { quoted: m });
         break;
 
 
@@ -3233,12 +3226,12 @@ _We will update the bot's terms and conditions periodically, so it's your respon
 _If you have any questions regarding our terms, please reach out to us._
 _For everything else, use common sense._
 
-*FUTURE IS NOW🚀~MARIA-MD*
-*_🚀Team Ayush_*
+*FUTURE IS NOW🚀NOOBX7*
+*_🚀Team AMITH_*
 
 ⍟ *────────────────* ⍟`
 
-Maria.sendMessage(m.chat, { image: { url: "https://graph.org/file/c8ad7dc322c0b9b7eca8f.jpg" }, caption: tifx, gifPlayback: true }, { quoted: m });
+Maria.sendMessage(m.chat, { image: { url: "https://graph.org/file/04109870ceb948cfe7e27.jpg" }, caption: tifx, gifPlayback: true }, { quoted: m });
         break;
 /////////////////////////////////////////////////////
 
